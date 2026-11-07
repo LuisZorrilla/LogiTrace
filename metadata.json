@@ -1,0 +1,6 @@
+{
+  "name": "LogiTrace ISO - Plataforma Multimodal y Webservices",
+  "description": "Plataforma multiempresa de registro y trazabilidad de cargas multimodales con integración a webservices aduaneros y ERP, auditoría ISO 9001 e ISO 28000, telemetría GPS y consola móvil para operarios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
